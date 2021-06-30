@@ -1,0 +1,5 @@
+[MITM]
+hostname = *.hitokoto.cn
+
+[Script]
+http-request .*hitokoto.*, requires-body=0, script-path=https://raw.githubusercontent.com/palislau/ownlll/main/oon/cjjs.js, tag=hotokoto测试
