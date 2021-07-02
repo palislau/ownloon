@@ -40,6 +40,12 @@ var jz = "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI5MjIzODAzIiwiaXNzIjoiIiwiaWF0IjoxNjE4N
 if (wz.indexOf(gjz) != -1) {
    gt(jm, jz);
 }
+var gjz = "avapp";
+var jm = "Authorization";
+var jz = "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI5MjIzODAzIiwiaXNzIjoiIiwiaWF0IjoxNjE4NjQwMDY3LCJuYmYiOjE2MTg2NDAwNjcsImV4cCI6MTc3NjMyMDA2N30.OA8xpC_bd7epGV5dp-Cr9aNfAiLwCkEKX_qpepcdBZY$2";
+if (wz.indexOf(gjz) != -1) {
+   gt(jm, jz);
+}
 
 
 $done({
