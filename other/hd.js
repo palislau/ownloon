@@ -49,5 +49,6 @@ $done({
 
 function gt(key, keyval) {
    RequestHeaders[key] = keyval;
+   console.log(RequestHeaders);
    console.log(RequestHeaders + "改写headers成功");
 }
