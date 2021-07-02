@@ -49,10 +49,10 @@ if (wz.indexOf(gjz) != -1) {
 $done({
    headers: RequestHeaders
 });
+console.log(RequestHeaders);
+console.log("改写headers成功");
 
 
 function gt(key, keyval) {
    RequestHeaders[key] = keyval;
-   console.log(RequestHeaders);
-   console.log("改写headers成功");
 }
