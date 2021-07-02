@@ -1,9 +1,7 @@
-if ($request) gt();
-function gt()
-{
+gt();
+function gt(){
     var RequestHeaders = $request.headers;
-    RequestHeaders['X-AUTH-TOKEN']="eyJhbGciOiJIUzUxMiIsImlhdCI6MTYxNzYxODU3MywiZXhwIjoxOTMyOTc4NTczfQ.eyJpZCI6NDEwNDEyMjl9.Jfxjcd2-FQKt4HYXxFte_NY_Rhcgij_f6g-BxyfHlennQc_CCbMbvXAVMUYp8CrzVDtwKc0KD0ejaO1-kRrhEg$2";
-  //$done({headers:RequestHeaders});//修改
-    $done({headers:RequestHeaders});//完成之后需要调用$done
-    //console.log(RequestHeaders);
+    RequestHeaders["X-AUTH-TOKEN"]="eyJhbGciOiJIUzUxMiIsImlhdCI6MTYxNzYxODU3MywiZXhwIjoxOTMyOTc4NTczfQ.eyJpZCI6NDEwNDEyMjl9.Jfxjcd2-FQKt4HYXxFte_NY_Rhcgij_f6g-BxyfHlennQc_CCbMbvXAVMUYp8CrzVDtwKc0KD0ejaO1-kRrhEg$2";
+    $done({headers:RequestHeaders});
+    console.log(RequestHeaders);
 }
