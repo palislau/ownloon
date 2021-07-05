@@ -17,9 +17,7 @@ if (wz.indexOf(gjz) != -1) {
 }
 
 
-//知音视频解锁VIP无限看（by 公众号 iOS黑科技）
-//下载地址
-//https://sghoxm.xyz?p=WD44PJ
+//#91新视频-下载地址：https://app.18sa.xyz/i-S3FM6X
 var gjz = "qishangzs";
 var jm = "X-AUTH-TOKEN";
 var jz = "eyJhbGciOiJIUzUxMiIsImlhdCI6MTYxNzYxODU3MywiZXhwIjoxOTMyOTc4NTczfQ.eyJpZCI6NDEwNDEyMjl9.Jfxjcd2-FQKt4HYXxFte_NY_Rhcgij_f6g-BxyfHlennQc_CCbMbvXAVMUYp8CrzVDtwKc0KD0ejaO1-kRrhEg$2";
@@ -44,6 +42,13 @@ var jz = "eyJhbGciOiJIUzUxMiIsImlhdCI6MTYxNzYxODU3MywiZXhwIjoxOTMyOTc4NTczfQ.eyJ
 if (wz.indexOf(gjz) != -1) {
    gt(jm, jz);
 }
+var gjz = "owertp";
+var jm = "X-AUTH-TOKEN";
+var jz = "eyJhbGciOiJIUzUxMiIsImlhdCI6MTYxNzYxODU3MywiZXhwIjoxOTMyOTc4NTczfQ.eyJpZCI6NDEwNDEyMjl9.Jfxjcd2-FQKt4HYXxFte_NY_Rhcgij_f6g-BxyfHlennQc_CCbMbvXAVMUYp8CrzVDtwKc0KD0ejaO1-kRrhEg$2";
+if (wz.indexOf(gjz) != -1) {
+   gt(jm, jz);
+}
+
 
 
 // 三更解锁VIP无限看
