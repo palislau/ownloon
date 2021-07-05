@@ -42,12 +42,6 @@ var jz = "eyJhbGciOiJIUzUxMiIsImlhdCI6MTYxNzYxODU3MywiZXhwIjoxOTMyOTc4NTczfQ.eyJ
 if (wz.indexOf(gjz) != -1) {
    gt(jm, jz);
 }
-var gjz = "owertp";
-var jm = "X-AUTH-TOKEN";
-var jz = "eyJhbGciOiJIUzUxMiIsImlhdCI6MTYxNzYxODU3MywiZXhwIjoxOTMyOTc4NTczfQ.eyJpZCI6NDEwNDEyMjl9.Jfxjcd2-FQKt4HYXxFte_NY_Rhcgij_f6g-BxyfHlennQc_CCbMbvXAVMUYp8CrzVDtwKc0KD0ejaO1-kRrhEg$2";
-if (wz.indexOf(gjz) != -1) {
-   gt(jm, jz);
-}
 
 
 
