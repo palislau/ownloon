@@ -4,9 +4,7 @@ var RequestHeaders = $request.headers;
 
 //各个以下
 
-//知音视频解锁VIP无限看（by 公众号 iOS黑科技）
-//下载地址
-//https://sghoxm.xyz?p=WD44PJ
+//#91视频-下载地址：https://app.18sa.xyz/i-S3FM6X
 var gjz = "apic";
 var jm = "Authorization";
 var jz = "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI5MjIzODAzIiwiaXNzIjoiIiwiaWF0IjoxNjE4NjQwMDY3LCJuYmYiOjE2MTg2NDAwNjcsImV4cCI6MTc3NjMyMDA2N30.OA8xpC_bd7epGV5dp-Cr9aNfAiLwCkEKX_qpepcdBZY$2";
@@ -14,6 +12,35 @@ if (wz.indexOf(gjz) != -1) {
    gt(jm, jz);
 }
 var gjz = "avapp";
+if (wz.indexOf(gjz) != -1) {
+   gt(jm, jz);
+}
+
+
+//知音视频解锁VIP无限看（by 公众号 iOS黑科技）
+//下载地址
+//https://sghoxm.xyz?p=WD44PJ
+var gjz = "qishangzs";
+var jm = "X-AUTH-TOKEN";
+var jz = "eyJhbGciOiJIUzUxMiIsImlhdCI6MTYxNzYxODU3MywiZXhwIjoxOTMyOTc4NTczfQ.eyJpZCI6NDEwNDEyMjl9.Jfxjcd2-FQKt4HYXxFte_NY_Rhcgij_f6g-BxyfHlennQc_CCbMbvXAVMUYp8CrzVDtwKc0KD0ejaO1-kRrhEg$2";
+if (wz.indexOf(gjz) != -1) {
+   gt(jm, jz);
+}
+var gjz = "rcljx";
+var jm = "X-AUTH-TOKEN";
+var jz = "eyJhbGciOiJIUzUxMiIsImlhdCI6MTYxNzYxODU3MywiZXhwIjoxOTMyOTc4NTczfQ.eyJpZCI6NDEwNDEyMjl9.Jfxjcd2-FQKt4HYXxFte_NY_Rhcgij_f6g-BxyfHlennQc_CCbMbvXAVMUYp8CrzVDtwKc0KD0ejaO1-kRrhEg$2";
+if (wz.indexOf(gjz) != -1) {
+   gt(jm, jz);
+}
+var gjz = "qdjdswkj";
+var jm = "X-AUTH-TOKEN";
+var jz = "eyJhbGciOiJIUzUxMiIsImlhdCI6MTYxNzYxODU3MywiZXhwIjoxOTMyOTc4NTczfQ.eyJpZCI6NDEwNDEyMjl9.Jfxjcd2-FQKt4HYXxFte_NY_Rhcgij_f6g-BxyfHlennQc_CCbMbvXAVMUYp8CrzVDtwKc0KD0ejaO1-kRrhEg$2";
+if (wz.indexOf(gjz) != -1) {
+   gt(jm, jz);
+}
+var gjz = "jisudaigou";
+var jm = "X-AUTH-TOKEN";
+var jz = "eyJhbGciOiJIUzUxMiIsImlhdCI6MTYxNzYxODU3MywiZXhwIjoxOTMyOTc4NTczfQ.eyJpZCI6NDEwNDEyMjl9.Jfxjcd2-FQKt4HYXxFte_NY_Rhcgij_f6g-BxyfHlennQc_CCbMbvXAVMUYp8CrzVDtwKc0KD0ejaO1-kRrhEg$2";
 if (wz.indexOf(gjz) != -1) {
    gt(jm, jz);
 }
