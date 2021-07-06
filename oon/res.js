@@ -16,8 +16,9 @@ if obj.data.cureNum != undefined {
    obj.data.userProp.cureNum = 3;
    obj.data.userProp.giftedCloverNum = 999;
    obj.data.userProp.poisonNum = 3;
-} else
+} else {
    obj.code = 0;
+}
 
 
 $done({
