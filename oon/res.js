@@ -1,7 +1,7 @@
 let body = $response.body;
 let obj = JSON.parse(body);
 
-
+console.log($request);
 //一Guan
 //cure情况一
 if (obj.hasOwnProperty("data")) {
