@@ -14,7 +14,7 @@ if (wz.indexOf(gjz) != -1) {
          obj.data.poisonNum = 3;
          if (obj.data.poisonTime != undefined) {
             delete obj.data.poisonTime;
-         }        
+         }
       } else
       if (obj.data.hasOwnProperty("userProp")) {
          if (obj.data.userProp.cureNum != undefined) {
@@ -24,10 +24,11 @@ if (wz.indexOf(gjz) != -1) {
             obj.data.userProp.poisonNum = 3;
             if (obj.data.userProp.poisonTime != undefined) {
                delete obj.data.userProp.poisonTime;
-            }  
+            }
          }
       }
-   } else {
+   }
+   if (obj.hasOwnProperty("code")) {
       obj.code = 0;
    }
 }
